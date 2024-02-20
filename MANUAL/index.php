@@ -3,7 +3,7 @@
 		<div class="panel-body">
 	<h2>SELAMAT DATANG |
 	</h2>
-	<H5>SMK NEGERI 4 BANJARBARU</H5>
+	<H5>SMK NEGERI 3 BANJARBARU</H5>
 	<style >
     	body{
     		background:url('img/background1.jpg');

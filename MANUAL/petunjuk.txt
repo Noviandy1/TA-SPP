@@ -1,0 +1,6 @@
+PETUNJUK
+
+1. Import Sql yang ada di dalam folder
+2. masukkan folder ke htdocs xampp
+3. run mysql dan apache
+4. buka http://127.0.0.1/spp pada web
